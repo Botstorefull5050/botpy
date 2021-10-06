@@ -69,4 +69,4 @@ sudoers = list(map(tryint, os.getenv("SUDOERS_LIST").split(" ")))
 
 admins = [1965223847]
 gifters = [1965223847]
-admin_chat = -1001520909324
+admin_chat = -1001510949365
